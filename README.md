@@ -2,5 +2,5 @@
 # Top header
 ## Secondary Header
 ### Tertiary Header
-** Bold Text **
-* Italics *
+**Bold Text**
+*Italics*
